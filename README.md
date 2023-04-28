@@ -7,17 +7,37 @@ This repository is a place for sharing your code used in the 'Machine Learning S
 
 # Conventions
 
-1. Written Language = English, but spanish is tolerated
-2. Name of the script
-3. 
-    - Author/s [Optional]
+```
+#HelloWorld.py
+"""
+HELLO WORLD 
+
+Author:
+    - John Doe
+    - JDoe@gmail.com
+Sources:
+    [Python doc]
+    https://docs.python.org/3/
+Desc:
+    In this script you will write your first Python script
+"""
+
+print('hello world')
+```
+
+1. Written Language = English (but spanish is accepted)
+2. Name of the Demo
+3. Author/s
+    - Name [Optional]
     - Email [Optional]
 4. Sources
     - book chapter
     - paper
     - links
-5. Write a description
+5. Description
     - What your demo is trying to show
-    - Spoiler of your results
+    - Advance of your results [Optional]
+
+6. Your code
 
 
